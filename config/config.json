@@ -1,0 +1,13 @@
+{
+    "myUserName_shop" : "", // Account that will send messages
+    "myPassword_shop" : "",
+
+    "myUserName_sender" : "", // Account that will send messages
+    "myPassword_sender" : "",
+
+    "myUserName_searcher" : "", // Account that seeks users to send messages
+    "myPassword_searcher" : "",
+
+    "targetAccount" : "casualchic_store", // Account that serves as the basis for looking for new accounts, ex: another shop account
+    "message" : ""
+}
