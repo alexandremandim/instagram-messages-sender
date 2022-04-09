@@ -1,4 +1,4 @@
-Instagram TypeScript scripts
+## Instagram TypeScript scripts
 
 Two functions that:
 - Automatically send messages to users on instagram.
