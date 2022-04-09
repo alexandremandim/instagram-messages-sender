@@ -1,5 +1,5 @@
 {
-  "name": "Semogana",
+  "name": "instagram-message-sender",
   "version": "1.0.0",
   "description": "Scripts that: automatically send messages & get all comments from publication",
   "main": "index.js",
