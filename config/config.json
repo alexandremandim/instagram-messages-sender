@@ -8,6 +8,6 @@
     "myUserName_searcher" : "", // Account that seeks users to send messages
     "myPassword_searcher" : "",
 
-    "targetAccount" : "casualchic_store", // Account that serves as the basis for looking for new accounts, ex: another shop account
+    "targetAccount" : "", // Account that serves as the basis for looking for new accounts, ex: another shop account
     "message" : ""
 }
